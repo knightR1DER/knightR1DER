@@ -18,17 +18,17 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who's p
 ## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,cpp,c" alt="Programming Languages" />
 </p>
 
 ### 🌐 Web Technologies & Frameworks
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,flask,tailwind,html,css" alt="Web Technologies" />
 </p>
 
 ### 🗄️ Databases & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,git,github,vscode" alt="Tools & Databases" />
 </p>
 
@@ -42,7 +42,9 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who's p
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushpaudel159@gmail.com" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
 </a>
-
+<a href="https://x.com/ayush_jrr">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X (Twitter)" width="40" height="40"/>
+  </a>
 </p>
 
 ---
