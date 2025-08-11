@@ -63,44 +63,24 @@ Code → Football → Sleep → Repeat 🔁
   <img src="https://github-readme-stats.vercel.app/api?username=knightR1DER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" />
   
   ### 🔥 GitHub Streak
-  <img src="https://streak-stats.demolab.com/?user=knightR1DER&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightR1DER&theme=dark&hide_border=true" alt="Ayush's GitHub Streak" />
   
   ### 💻 Most Used Languages
-  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightR1DER&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&custom_title=Languages%20I%20Code%20In" alt="Most Used Languages" />
-  </p>
-  
-  <div align="center">
-    <h4>🔧 Language Proficiency</h4>
-    <p>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" />
-    </p>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightR1DER&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Most Used Languages" />
   
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knightR1DER&theme=tokyo-night&hide_border=true&area=true" alt="Ayush's Activity Graph" />
+  
+  ### 🐍 Contribution Snake
+  <!-- Snake animation will be added later with GitHub Actions -->
+  <p><em>Contribution snake animation coming soon...</em></p>
+  
 </div>
-
----
-
-## 🎯 Current Focus
-
-- 🔭 Working on semester projects as a collaborator
-- 🌱 Exploring new technologies and frameworks
-- 👯 Looking to collaborate on interesting projects
-- 🤝 Open to learning from the developer community
 
 ---
 
