@@ -89,7 +89,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who's p
 
 ## 💭 Quote of the Day
 <div align="center">
-"Code is like humor. When you have to explain it, it's bad."
+"Code is like humor. When you have to explain it, it's bad."<br><br>
 Thanks for visiting! ⭐ Star some repositories if you find them interesting!
 </div>
 
