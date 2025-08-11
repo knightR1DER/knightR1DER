@@ -4,11 +4,6 @@
 
 Welcome to my GitHub profile! I'm a Computer Science Engineering student who's passionate about exploring different technologies and building cool stuff. When I'm not coding, you'll find me on the football field or catching up on some well-deserved sleep! 😴
 
-## 🔄 My Life Cycle:
-```
-Code → Football → Sleep → Repeat 🔁
-```
-
 ---
 
 ## 🚀 About Me
