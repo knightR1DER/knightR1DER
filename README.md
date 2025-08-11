@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who's p
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushpaudel159@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40"/>
 </a>
 <a href="https://x.com/ayush_jrr" target="_blank">
     <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X (Twitter)" width="40" height="40"/>
