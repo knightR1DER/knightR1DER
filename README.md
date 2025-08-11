@@ -39,6 +39,22 @@ Code → Football → Sleep → Repeat 🔁
 
 ---
 
+## 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/ayush-paudel" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  </a>
+  <a href="mailto:ayush.paudel@example.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" width="40" height="40" />
+  </a>
+  <a href="https://github.com/knightR1DER" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -47,26 +63,34 @@ Code → Football → Sleep → Repeat 🔁
   <img src="https://github-readme-stats.vercel.app/api?username=knightR1DER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" />
   
   ### 🔥 GitHub Streak
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightR1DER&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=knightR1DER&theme=tokyonight&hide_border=true" alt="Ayush's GitHub Streak" />
   
   ### 💻 Most Used Languages
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightR1DER&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Most Used Languages" />
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightR1DER&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8&custom_title=Languages%20I%20Code%20In" alt="Most Used Languages" />
+  </p>
+  
+  <div align="center">
+    <h4>🔧 Language Proficiency</h4>
+    <p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" />
+    </p>
+  </div>
   
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
-  
-  ### 🐍 Contribution Snake
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knightR1DER/knightR1DER/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knightR1DER/knightR1DER/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/knightR1DER/knightR1DER/output/github-contribution-grid-snake.svg">
-  </picture>
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knightR1DER&theme=tokyo-night&hide_border=true&area=true" alt="Ayush's Activity Graph" />
 </div>
 
 ---
@@ -80,30 +104,19 @@ Code → Football → Sleep → Repeat 🔁
 
 ---
 
-## 📫 Let's Connect!
+## 🎯 Current Focus
 
-<p align="center">
-  <a href="https://linkedin.com/in/ayush-paudel">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ayush.paudel@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/knightR1DER">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+- 🔭 Working on semester projects as a collaborator
+- 🌱 Exploring new technologies and frameworks
+- 👯 Looking to collaborate on interesting projects
+- 🤝 Open to learning from the developer community
 
 ---
 
-<div align="center">
-  
-  ### 💭 Quote of the Day
-  *"Code is like humor. When you have to explain it, it's bad."* 
-  
-  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
-  
-</div>
+## 💭 Quote of the Day
+*"Code is like humor. When you have to explain it, it's bad."* 
+
+**Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
 
 ---
 
