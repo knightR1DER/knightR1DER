@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who's p
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
 </a>
 <a href="https://x.com/ayush_jrr">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="X (Twitter)" width="40" height="40"/>
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X (Twitter)" width="40" height="40"/>
   </a>
 </p>
 
