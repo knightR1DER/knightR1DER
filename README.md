@@ -37,13 +37,13 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who's p
 ## 📫 Let's Connect!
 <p align="center">
   <a href="https://linkedin.com/in/ayushpaudel" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="mailto:ayushpaudel159@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://github.com/knightR1DER" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" alt="GitHub" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
 
