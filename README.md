@@ -15,8 +15,6 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who's p
   
   🚀 **Exploring the vast universe of code while keeping one eye on the football field!**
   
-  *Where code meets creativity, and football tactics inspire algorithms!* ⚽💡
-  
 </div>
 
 ---
@@ -24,7 +22,7 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who's p
 ## 🚀 About Me
 Every new technology is another adventure waiting to happen. When not wrestling with algorithms, you’ll find me breaking down match tactics or perfecting the art of the power nap. 😴  
 
-**🎯 Mission:** To try every programming language and framework (currently at 47.3% completion)  
+**🎯 Mission:** To try every programming language and framework
 **⚽ Passion:** Football - because life needs more than just semicolons and brackets  
 **🌱 Status:** Perpetually learning, occasionally sleeping, constantly debugging  
 **🤝 Team Player:** In both code reviews and football matches  
@@ -35,15 +33,8 @@ Every new technology is another adventure waiting to happen. When not wrestling 
 - 🔭 **Currently:** On a mission to try every framework known to humanity
 - 🌱 **Learning:** New tech stacks faster than Messi dribbles past defenders  
 - 👯 **Collaborating:** Group semester projects (where Git merge conflicts are scarier than penalty shootouts)
-- 🤔 **Wondering:** If there's a framework for making the perfect cup of tea ☕
 - ⚡ **Fun Stats:** My code runs better when my favorite team wins! ⚽
-
----
-
-### ⚡ Fun Developer Stats:
-- 🎯 **Current Mission:** Trying all frameworks (18 down, ∞ to go)
 - 📚 **Learning Speed:** Fast enough to keep up with JavaScript updates
-- ⚽ **Football Knowledge:** Can predict match outcomes with 73% accuracy*
 - 😴 **Sleep Schedule:** What's that?
 
 ---
@@ -69,13 +60,13 @@ Every new technology is another adventure waiting to happen. When not wrestling 
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="https://linkedin.com/in/ayushpaudel" target="_blank">
+  <a href="https://linkedin.com/in/ayushpaudel" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushpaudel159@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="40"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ayushpaudel159@gmail.com" target="_blank" title="Mail">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
 </a>
-<a href="https://x.com/ayush_jrr" target="_blank">
+<a href="https://x.com/ayush_jrr" target="_blank" title="X">
     <img src="https://cdn.simpleicons.org/x/FFFFFF" alt="X (Twitter)" width="40" height="40"/>
   </a>
 </p>
