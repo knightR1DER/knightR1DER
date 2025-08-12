@@ -22,9 +22,9 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who's p
 ## 🚀 About Me
 Every new technology is another adventure waiting to happen. When not wrestling with algorithms, you’ll find me breaking down match tactics or perfecting the art of the power nap. 😴  
 
-**🎯 Mission:** To try every programming language and framework
-**⚽ Passion:** Football - because life needs more than just semicolons and brackets  
-**🌱 Status:** Perpetually learning, occasionally sleeping, constantly debugging  
+**🎯 Mission:** To try every programming language and framework <br>
+**⚽ Passion:** Football - because life needs more than just semicolons and brackets  <br>
+**🌱 Status:** Perpetually learning, occasionally sleeping, constantly debugging  <br>
 **🤝 Team Player:** In both code reviews and football matches  
 
 ---
