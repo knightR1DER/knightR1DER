@@ -54,9 +54,9 @@ Welcome to my GitHub profile! I'm a Computer Science Engineering student who's p
 <div align="center">
   
   ### 📈 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=knightR1DER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=knightR1DER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" /> <br>
    ### 🔥 GitHub Streak
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightR1DER&theme=dark&hide_border=true" alt="Ayush's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightR1DER&theme=dark&hide_border=true" alt="Ayush's GitHub Streak" /> <br>
    ### 💻 Most Used Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knightR1DER&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Most Used Languages" />
   
