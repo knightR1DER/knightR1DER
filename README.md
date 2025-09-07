@@ -48,7 +48,7 @@ Every new technology is another adventure waiting to happen. When not wrestling 
 
 ### 🌐 Web Technologies & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flask,tailwind,html,css" alt="Web Technologies" />
+  <img src="https://skillicons.dev/icons?i=react,django,tailwind,html,css" alt="Web Technologies" />
 </p>
 
 ### 🗄️ Databases & Tools
