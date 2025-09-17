@@ -88,7 +88,7 @@ Every new technology is another adventure waiting to happen. When not wrestling 
 <div align="center">
   
   ### 📈 GitHub Stats
-  <img src="https://github-readme-stats-giigpbzh0-knightriders-projects-70150fc9.vercel.app/api?username=knightR1DER&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ayush's GitHub Stats" /> <br>
+  <img src="https://github-readme-stats-giigpbzh0-knightriders-projects-70150fc9.vercel.app/api?username=knightR1DER&hide_border=true&count_private=true&theme=tokyonight&show_icons=true" alt="Ayush's GitHub Stats" /> <br>
   
   ### 🔥 GitHub Streak
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=knightR1DER&theme=dark&hide_border=true" alt="Ayush's GitHub Streak" /> <br>
