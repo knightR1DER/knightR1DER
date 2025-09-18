@@ -86,16 +86,24 @@ Every new technology is another adventure waiting to happen. When not wrestling 
   
 </div> -->
 <div align="center">
-  
+  <table>
+   <tr>
+    <td align="center">
+     
   ### 📈 GitHub Stats
   <img src="https://github-readme-stats-three-zeta-84.vercel.app/api?username=knightR1DER&hide_border=true&count_private=true&theme=tokyonight&show_icons=true" alt="Ayush's GitHub Stats" /> <br>
-  
+    </td>
+     <td align="center">
   ### 🔥 GitHub Streak
   <img src="https://github-readme-streak-stats-alpha-topaz.vercel.app?user=knightR1DER&theme=dark" alt="Ayush's GitHub Streak" /> <br>
-  
+    </td>
+    <td align="center">
   ### 💻 Most Used Languages
   <img src="https://github-readme-stats-three-zeta-84.vercel.app/api/top-langs/?username=knightR1DER&layout=compact&theme=tokyonight&hide_border=true&count_private=true&exclude_forks=true&exclude_repo=github-readme-streak-stats" alt="Most Used Languages" />
+    </td>
   
+   </tr>
+</table>
 </div>
 
 ---
