@@ -94,7 +94,7 @@ Every new technology is another adventure waiting to happen. When not wrestling 
   <img src="https://github-readme-streak-stats-alpha-topaz.vercel.app?user=knightR1DER&theme=dark" alt="Ayush's GitHub Streak" /> <br>
   
   ### 💻 Most Used Languages
-  <img src="https://github-readme-stats-three-zeta-84.vercel.app/api/top-langs/?username=knightR1DER&layout=compact&theme=tokyonight&hide_border=true&count_private=true&exclude_forks=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-three-zeta-84.vercel.app/api/top-langs/?username=knightR1DER&layout=compact&theme=tokyonight&hide_border=true&count_private=true&exclude_forks=true&exclude_repo=github-readme-streak-stats" alt="Most Used Languages" />
   
 </div>
 
