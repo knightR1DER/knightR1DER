@@ -97,7 +97,7 @@ Every new technology is another adventure waiting to happen. When not wrestling 
       
      
    ### 💻 Most Used Languages
-  <img src="https://github-readme-stats-three-zeta-84.vercel.app/api/top-langs/?username=knightR1DER&layout=compact&theme=tokyonight&hide_border=true&count_private=true&exclude_forks=true&exclude_repo=github-readme-streak-stats" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-three-zeta-84.vercel.app/api/top-langs/?username=knightR1DER&layout=compact&theme=tokyonight&hide_border=true&count_private=true&exclude_forks=true&exclude_repo=github-readme-streak-stats,github-readme-stats" alt="Most Used Languages" />
  
 </div>
 
